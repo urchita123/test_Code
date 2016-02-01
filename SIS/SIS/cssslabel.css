@@ -1,0 +1,16 @@
+﻿.csslbl {
+    text-align :center;
+    width : 150px;
+    color : blueviolet ;
+    border-color : blueviolet;border-width:thick;
+}
+
+.csstxt {
+    width : 150px;
+    margin-left: 0px;
+}
+
+.selbtn {
+    color : chocolate;
+    border-color : aliceblue;
+}

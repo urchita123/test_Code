@@ -1,0 +1,104 @@
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\SIS.dll.config
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\SIS.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\SIS.pdb
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Antlr3.Runtime.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\EntityFramework.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\EntityFramework.SqlServer.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Newtonsoft.Json.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Owin.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\System.Web.Optimization.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\System.Web.Providers.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\WebGrease.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\System.Web.Optimization.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Antlr3.Runtime.pdb
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Newtonsoft.Json.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\EntityFramework.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\EntityFramework.SqlServer.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\System.Web.Providers.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\obj\Debug\SIS.csprojResolveAssemblyReference.cache
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\obj\Debug\SIS.dll
+C:\Users\vijay.v\Documents\Visual Studio 2013\Projects\SIS\SIS\obj\Debug\SIS.pdb
+D:\Brijesh\SIS\SIS\bin\SIS.dll.config
+D:\Brijesh\SIS\SIS\bin\SIS.dll
+D:\Brijesh\SIS\SIS\bin\SIS.pdb
+D:\Brijesh\SIS\SIS\bin\Antlr3.Runtime.dll
+D:\Brijesh\SIS\SIS\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Brijesh\SIS\SIS\bin\AspNet.ScriptManager.jQuery.dll
+D:\Brijesh\SIS\SIS\bin\EntityFramework.dll
+D:\Brijesh\SIS\SIS\bin\EntityFramework.SqlServer.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Google.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Brijesh\SIS\SIS\bin\Microsoft.Web.Infrastructure.dll
+D:\Brijesh\SIS\SIS\bin\Newtonsoft.Json.dll
+D:\Brijesh\SIS\SIS\bin\Owin.dll
+D:\Brijesh\SIS\SIS\bin\System.Web.Optimization.dll
+D:\Brijesh\SIS\SIS\bin\System.Web.Providers.dll
+D:\Brijesh\SIS\SIS\bin\WebGrease.dll
+D:\Brijesh\SIS\SIS\bin\System.Web.Optimization.xml
+D:\Brijesh\SIS\SIS\bin\Antlr3.Runtime.pdb
+D:\Brijesh\SIS\SIS\bin\Newtonsoft.Json.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Brijesh\SIS\SIS\bin\EntityFramework.xml
+D:\Brijesh\SIS\SIS\bin\EntityFramework.SqlServer.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Brijesh\SIS\SIS\bin\System.Web.Providers.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Google.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Brijesh\SIS\SIS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Brijesh\SIS\SIS\obj\Debug\SIS.csprojResolveAssemblyReference.cache
+D:\Brijesh\SIS\SIS\obj\Debug\SIS.dll
+D:\Brijesh\SIS\SIS\obj\Debug\SIS.pdb
