@@ -1,3 +1,5 @@
+Readme file
+
 ------------------------------------------------------------------------------
 Beyond Compare 3
 by Scooter Software                                    www.scootersoftware.com
